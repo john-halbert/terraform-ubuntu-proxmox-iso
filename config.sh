@@ -4,8 +4,8 @@
 : ${NICKNAME:="terraform"}
 
 # Arguments given to the download router.
-: ${VERSION:="14.04.5"}
-: ${DISTRO:="server"}
+: ${VERSION:="18.04.3"}
+: ${DISTRO:="live-server"}
 : ${RELEASE:="latest"}
 
 # Architecture being built (i386 or amd64).
